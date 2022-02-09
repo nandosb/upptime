@@ -8,6 +8,9 @@ sites:
     maxResponseTime: 8000
     assignees:
       - nandosb
+  - name: NotWorkingSite
+    url: https://www.send-alert-not-working-site.com.ar
+
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
