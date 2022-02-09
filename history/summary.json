@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3192,
-    "timeDay": 3192,
-    "timeWeek": 3192,
-    "timeMonth": 3192,
-    "timeYear": 3192,
+    "time": 3466,
+    "timeDay": 3466,
+    "timeWeek": 3466,
+    "timeMonth": 3466,
+    "timeYear": 3466,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "NotWorkingSite",
-    "url": "https://www.send-alert-not-working-site.com.ar",
-    "icon": "https://favicons.githubusercontent.com/www.send-alert-not-working-site.com.ar",
-    "slug": "not-working-site",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-02-09": 2
-    }
   }
 ]
