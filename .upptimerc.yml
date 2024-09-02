@@ -6,6 +6,14 @@ sites:
   - name: WinePass Web - Argentina
     url: https://www.winepass.com.ar
     maxResponseTime: 8000
+    icon: https://winepass.com.ar/favicon.ico
+    assignees:
+      - nandosb
+
+  - name: WinePass API - Argentina
+    url: https://server.winepass.com.ar/healthcheck
+    maxResponseTime: 5000
+    icon: https://winepass.com.ar/favicon.ico
     assignees:
       - nandosb
 
