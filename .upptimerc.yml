@@ -10,7 +10,7 @@ sites:
       - nandosb
 
   - name: WinePass API - Argentina
-    url: https://server.winepass.com.ar
+    url: https://server.winepass.com.ar/healthcheck
     maxResponseTime: 5000
     assignees:
       - nandosb
