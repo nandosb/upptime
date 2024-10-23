@@ -4,10 +4,10 @@
     "url": "https://www.winepass.com.ar",
     "icon": "https://winepass.com.ar/favicon.ico",
     "slug": "wine-pass-web-argentina",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
@@ -15,14 +15,16 @@
     "timeWeek": 292,
     "timeMonth": 281,
     "timeYear": 275,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-23": 1
+    }
   },
   {
     "name": "WinePass API - Argentina",
     "url": "https://server.winepass.com.ar/healthcheck",
     "icon": "https://winepass.com.ar/favicon.ico",
     "slug": "wine-pass-api-argentina",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 268,
     "timeYear": 262,
     "dailyMinutesDown": {
+      "2024-10-23": 0,
       "2024-09-13": 61
     }
   }
