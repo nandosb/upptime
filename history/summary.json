@@ -28,7 +28,7 @@
     "url": "https://server.winepass.com.ar/healthcheck",
     "icon": "https://winepass.com.ar/favicon.ico",
     "slug": "wine-pass-api-argentina",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -40,6 +40,7 @@
     "timeMonth": 270,
     "timeYear": 271,
     "dailyMinutesDown": {
+      "2025-02-06": 0,
       "2024-10-31": 80,
       "2024-10-30": 213,
       "2024-10-29": 46,
