@@ -4,7 +4,7 @@
     "url": "https://www.winepass.com.ar",
     "icon": "https://winepass.com.ar/favicon.ico",
     "slug": "wine-pass-web-argentina",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 279,
     "timeYear": 261,
     "dailyMinutesDown": {
+      "2025-03-03": 0,
       "2024-10-31": 80,
       "2024-10-30": 214,
       "2024-10-29": 46,
