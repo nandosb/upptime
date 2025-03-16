@@ -16,6 +16,20 @@ sites:
     icon: https://winepass.com.ar/favicon.ico
     assignees:
       - nandosb
+
+  - name: WinePass Web - Chile
+    url: https://www.winepass.com.ar
+    maxResponseTime: 8000
+    icon: https://winepass.cl/favicon.ico
+    assignees:
+      - nandosb
+
+  - name: WinePass API - Chile
+    url: https://server.winepass.cl/healthcheck
+    maxResponseTime: 5000
+    icon: https://winepass.cl/favicon.ico
+    assignees:
+      - nandosb
       
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
