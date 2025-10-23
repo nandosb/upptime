@@ -6,14 +6,14 @@
     "slug": "wine-pass-web-argentina",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.73%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.90%",
     "time": 265,
-    "timeDay": 324,
-    "timeWeek": 297,
-    "timeMonth": 276,
+    "timeDay": 381,
+    "timeWeek": 312,
+    "timeMonth": 283,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2025-10-21": 18,
@@ -21,8 +21,7 @@
       "2024-10-31": 80,
       "2024-10-30": 214,
       "2024-10-29": 46,
-      "2024-10-28": 23,
-      "2024-10-23": 50
+      "2024-10-28": 23
     }
   },
   {
@@ -36,18 +35,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 292,
-    "timeDay": 199,
-    "timeWeek": 335,
-    "timeMonth": 297,
+    "time": 293,
+    "timeDay": 521,
+    "timeWeek": 367,
+    "timeMonth": 308,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2025-02-06": 30,
       "2024-10-31": 80,
       "2024-10-30": 213,
       "2024-10-29": 46,
-      "2024-10-28": 22,
-      "2024-10-23": 50
+      "2024-10-28": 22
     }
   },
   {
@@ -62,9 +60,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 39,
-    "timeWeek": 44,
-    "timeMonth": 45,
+    "timeDay": 74,
+    "timeWeek": 48,
+    "timeMonth": 47,
     "timeYear": 36,
     "dailyMinutesDown": {}
   },
@@ -80,9 +78,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 235,
-    "timeDay": 210,
-    "timeWeek": 241,
-    "timeMonth": 238,
+    "timeDay": 213,
+    "timeWeek": 240,
+    "timeMonth": 237,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2025-10-02": 26
