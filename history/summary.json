@@ -5,14 +5,14 @@
     "icon": "https://winepass.com.ar/favicon.ico",
     "slug": "wine-pass-web-argentina",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 268,
-    "timeDay": 370,
-    "timeWeek": 339,
+    "timeDay": 246,
+    "timeWeek": 321,
     "timeMonth": 317,
     "timeYear": 267,
     "dailyMinutesDown": {
@@ -33,10 +33,10 @@
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.92%",
     "time": 297,
-    "timeDay": 269,
-    "timeWeek": 461,
-    "timeMonth": 367,
-    "timeYear": 304,
+    "timeDay": 217,
+    "timeWeek": 307,
+    "timeMonth": 364,
+    "timeYear": 303,
     "dailyMinutesDown": {
       "2025-10-23": 405,
       "2025-02-06": 30
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 38,
-    "timeDay": 59,
-    "timeWeek": 60,
+    "time": 37,
+    "timeDay": 36,
+    "timeWeek": 55,
     "timeMonth": 53,
-    "timeYear": 38,
+    "timeYear": 37,
     "dailyMinutesDown": {
       "2025-10-23": 23
     }
@@ -74,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 236,
-    "timeDay": 544,
-    "timeWeek": 265,
-    "timeMonth": 231,
+    "timeDay": 193,
+    "timeWeek": 262,
+    "timeMonth": 232,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2025-10-02": 26
