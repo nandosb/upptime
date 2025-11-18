@@ -1,7 +1,7 @@
 url: https://server.winepass.cl/healthcheck
-status: down
-code: 500
-responseTime: 147
-lastUpdated: 2025-11-18T13:36:57.637Z
+status: up
+code: 200
+responseTime: 252
+lastUpdated: 2025-11-18T14:40:56.496Z
 startTime: 2025-03-16T01:17:25.107Z
 generator: Upptime <https://github.com/upptime/upptime>
