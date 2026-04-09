@@ -1,7 +1,7 @@
 url: https://www.winepass.com.ar
-status: down
-code: 502
-responseTime: 8
-lastUpdated: 2026-04-09T16:25:52.969Z
+status: up
+code: 200
+responseTime: 25
+lastUpdated: 2026-04-09T17:35:55.365Z
 startTime: 2025-03-16T01:17:24.857Z
 generator: Upptime <https://github.com/upptime/upptime>
