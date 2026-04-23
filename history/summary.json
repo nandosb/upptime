@@ -75,9 +75,9 @@
     "url": "https://server.winepass.cl/healthcheck",
     "icon": "https://winepass.cl/favicon.ico",
     "slug": "wine-pass-api-chile",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.96%",
@@ -87,6 +87,7 @@
     "timeMonth": 224,
     "timeYear": 231,
     "dailyMinutesDown": {
+      "2026-04-23": 0,
       "2026-04-16": 65,
       "2025-11-18": 124,
       "2025-10-02": 26
