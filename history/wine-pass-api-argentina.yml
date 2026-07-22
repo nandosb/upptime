@@ -1,7 +1,7 @@
 url: https://server.winepass.com.ar/healthcheck
-status: degraded
+status: up
 code: 200
-responseTime: 10298
-lastUpdated: 2026-07-22T19:16:17.701Z
+responseTime: 263
+lastUpdated: 2026-07-22T20:33:30.702Z
 startTime: 2024-09-02T22:13:43.393Z
 generator: Upptime <https://github.com/upptime/upptime>
